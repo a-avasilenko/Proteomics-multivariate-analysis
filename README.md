@@ -53,9 +53,6 @@ requests                      # UniProt API
 ```
 
 ## Repository Structure
-
-```
-## Repository Structure
 ```
 ├── notebooks/
 │   └── notebook.ipynb       # Main analysis demonstrating methodology
@@ -68,10 +65,10 @@ requests                      # UniProt API
 ## Quick Start
 
 ```bash
-git clone https://github.com/yourusername/proteomics-ml-reanalysis.git
-cd proteomics-ml-reanalysis
+git clone https://github.com/a-avasilenko/Proteomics-multivariate-analysis.git
+cd Proteomics-multivariate-analysis
 pip install -r requirements.txt
-jupyter notebook notebook.ipynb
+jupyter notebook notebooks/[your-notebook-name].ipynb
 ```
 
 **Run all cells** (Cell → Run All) | **Runtime**: ~5 minutes
