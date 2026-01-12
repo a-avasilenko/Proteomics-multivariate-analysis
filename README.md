@@ -56,8 +56,6 @@ requests                      # UniProt API
 
 ```
 ├── notebook.ipynb                    # Main analysis (11 sections)
-├── data/
-│   └── proteomics_data.xlsx         # LC-MS/MS data
 ├── results/
 │   ├── traditional_significant.csv
 │   ├── lasso_selected_proteins.csv
